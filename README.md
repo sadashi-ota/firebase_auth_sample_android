@@ -8,6 +8,7 @@ Firebase Authentication sample application for Android.
 
 - Authenticate with Firebase using email link.
   - See detail at [this][1].
+  - [The Firebase Blog][2]
 
 # License
 
@@ -28,3 +29,4 @@ limitations under the License.
 ```
 
 [1]:https://firebase.google.com/docs/auth/android/email-link-auth
+[2]:https://firebase.googleblog.com/2018/04/whats-new-in-firebase-authentication.html
