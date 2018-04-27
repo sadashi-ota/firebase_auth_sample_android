@@ -7,8 +7,10 @@ Firebase Authentication sample application for Android.
 ## Password less sample
 
 - Authenticate with Firebase using email link.
-  - See detail at [this][1].
+  - See also [this][1].
   - [The Firebase Blog][2]
+- Documents
+  - [Firebase Authentication のパスワードレス認証を試してみた](./doc/auth_for_password_less.md)
 
 # License
 
