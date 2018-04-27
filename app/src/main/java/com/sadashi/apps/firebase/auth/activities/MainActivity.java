@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 String text = (String) adapterView.getItemAtPosition(i);
                 switch (text) {
                     case PASSWORD_LESS_SAMPLE:
+                        startActivity(new Intent(MainActivity.this, PasswordLessActivity.class));
                         break;
                 }
             }
